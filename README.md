@@ -104,3 +104,4 @@ Run the command `sudo apt-get install build-essential patch ruby-dev zlib1g-dev 
 
 If you are using any other OS, you can follow the instructions mentioned here:
 http://www.nokogiri.org/tutorials/installing_nokogiri.html
+test
